@@ -1,3 +1,7 @@
+# Database Labs & Library Management System Project
+
+This repository contains all my lab work and a complete project developed during my Database course using **Oracle Database**.
+
 ## 📁 Contents
 
 ### 🔹 Database Labs
@@ -13,10 +17,10 @@
   - ERD to Relational Mapping
 
 ### 🔹 Library Management System Project
-- A console-based application developed in **C# (.NET Framework)**.
+- A console-based application developed in **C# (.NET Framework)** using **Oracle Database**.
 - Implements:
   - Book, Borrower, and Transaction management
-  - File handling using `FileStream`, `StreamReader`, and `StreamWriter`
+  - Connectivity to Oracle Database using `Oracle.DataAccess` or `Oracle.ManagedDataAccess`
   - Complete Data Access Layer (DAL)
   - Menu-driven Presentation Layer (Console App)
-  - No built-in functions used (manual implementation)
+  - Operations like Insert, Update, Delete, Search using SQL queries
